@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihaib94" alt="mihaib94" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently building skills in software architecture, programming languages and compilers, computer networking, software testing, and computational theory.**
+- 🌱 I’m currently building **skills in software architecture, programming languages and compilers, computer networking, software testing, and computational theory.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on projects involving Java, web development, or cloud/AI technologies.**
+- 👯 I’m looking to collaborate on **on projects involving Java, web development, or cloud/AI technologies.**
 
 - 📫 How to reach me **bordeniuc.mihai@gmail.com**
 
