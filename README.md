@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihai</h1>
-<h3 align="center">CS Student | Web Dev & Software Enthusiast | Curious about Cloud & AI</h3>
+<h3 align="center">CS Student | Web Dev & Software Enthusiast | Curious about Cloud, DevOps & AI</h3>
 
 - 🌱 I’m currently building  **skills in software architecture, programming languages and compilers, computer networking, software testing, and computational theory.**
 
